@@ -1,0 +1,17 @@
+{
+  "name": "android-referrer-plugin",
+  "version": "1.0.0",
+  "description": "This plugin captures the referrer value passed when an android app is installed from a webpage and stores it in the applications shared preferences for later retrieval",
+  "cordova": {
+    "id": "com.eightz.mobile.cordova.plugin.android.referrer",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "android",
+    "cordova",
+    "referrer",
+    "plugin"
+  ]
+}
