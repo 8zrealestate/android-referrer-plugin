@@ -5,8 +5,7 @@
   "cordova": {
     "id": "com.eightz.mobile.cordova.plugin.android.referrer",
     "platforms": [
-      "android",
-      "ios"
+      "android"
     ]
   },
   "keywords": [
